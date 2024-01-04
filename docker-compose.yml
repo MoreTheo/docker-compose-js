@@ -17,7 +17,7 @@ services:
       - db
     environment:
       DB_TYPE: postgres
-      DB_HOST: wikiintellj.netlify.app
+      DB_HOST: db
       DB_PORT: 5432
       DB_USER: wikijs
       DB_PASS: wikijsrocks
